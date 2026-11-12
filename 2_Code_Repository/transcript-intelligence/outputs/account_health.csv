@@ -1,0 +1,33 @@
+account,n_calls,first_call,last_call,avg_external,avg_support,last_score,trend,max_churn,last_churn,competitors,outage_touched,journey,ext_vs_support_gap
+northstarpharma,2,2026-03-12,2026-03-15,2.1,2.1,2.1,0.0,3,high,"['CyberNova', 'SentinelShield']",True,Mar 12 ext 2.1 → Mar 15 sup 2.1,0.0
+helixdata,1,2026-03-17,2026-03-17,2.3,,2.3,0.0,3,high,['VaultEdge'],True,Mar 17 ext 2.3,
+quantumedge,1,2026-03-19,2026-03-19,2.4,,2.4,0.0,3,high,['SentinelShield'],True,Mar 19 ext 2.4,
+stratoscloud,2,2026-03-06,2026-04-22,4.7,2.4,2.4,-2.3000000000000003,3,high,[],True,Mar 06 ext 4.7 → Apr 22 sup 2.4,2.3000000000000003
+summittrust,3,2026-02-06,2026-04-15,2.4,3.0999999999999996,2.4,-1.4,3,medium,['VaultEdge'],True,Feb 06 sup 3.8 → Mar 26 ext 2.4 → Apr 15 sup 2.4,-0.6999999999999997
+brightpathcommerce,4,2026-02-11,2026-04-22,3.25,3.25,2.6,-1.2999999999999998,3,high,['SentinelShield'],True,Feb 11 ext 3.9 → Feb 21 sup 2.8 → Feb 27 sup 3.7 → Apr 22 ext 2.6,0.0
+ironworkscorp,1,2026-04-14,2026-04-14,2.6,,2.6,0.0,3,high,['Fortiguard Pro'],True,Apr 14 ext 2.6,
+novaretail,2,2026-02-14,2026-03-21,2.6,2.3,2.6,0.30000000000000027,3,high,['SentinelShield'],True,Feb 14 sup 2.3 → Mar 21 ext 2.6,0.30000000000000027
+cobaltsoftware,2,2026-03-10,2026-04-11,3.4,1.8,3.4,1.5999999999999999,3,medium,['SentinelShield'],True,Mar 10 sup 1.8 → Apr 11 ext 3.4,1.5999999999999999
+meridiancapital,3,2026-03-07,2026-03-26,2.4,3.55,3.4,-0.30000000000000027,3,low,['SentinelShield'],True,Mar 07 sup 3.7 → Mar 14 ext 2.4 → Mar 26 sup 3.4,-1.15
+silverlinebrands,4,2026-03-16,2026-04-18,4.8,2.9,3.9,1.5,3,none,[],True,Mar 16 sup 2.4 → Apr 03 ext 4.8 → Apr 12 sup 2.4 → Apr 18 sup 3.9,1.9
+trailheadmkt,2,2026-03-11,2026-04-05,4.5,1.4,4.5,3.1,3,low,['SentinelShield'],True,Mar 11 sup 1.4 → Apr 05 ext 4.5,3.1
+blackridgeinvest,4,2026-02-07,2026-04-25,4.7,3.2,4.8,0.09999999999999964,3,none,['SentinelShield'],True,Feb 07 ext 4.7 → Mar 12 sup 1.6 → Apr 21 ext 4.7 → Apr 25 sup 4.8,1.5
+clearwatermed,2,2026-04-07,2026-04-10,4.8,2.4,2.4,-2.4,2,medium,[],True,Apr 07 ext 4.8 → Apr 10 sup 2.4,2.4
+crestlinewealth,3,2026-02-17,2026-04-27,4.3,2.4,2.4,-1.4,2,medium,[],True,Feb 17 ext 3.8 → Apr 24 ext 4.8 → Apr 27 sup 2.4,1.9
+ridgelinelogistics,3,2026-03-07,2026-03-14,3.4,2.25,2.4,-1.0,2,medium,[],True,Mar 07 ext 3.4 → Mar 13 sup 2.1 → Mar 14 sup 2.4,1.15
+ironcladfinancial,1,2026-03-28,2026-03-28,2.8,,2.8,0.0,2,medium,['SentinelShield'],True,Mar 28 ext 2.8,
+steelpointmfg,2,2026-03-22,2026-03-24,2.8,2.4,2.8,0.3999999999999999,2,medium,['CyberNova'],True,Mar 22 sup 2.4 → Mar 24 ext 2.8,0.3999999999999999
+vantahealth,3,2026-02-03,2026-02-28,4.7,2.4,4.7,2.3000000000000003,2,none,[],False,Feb 03 sup 2.4 → Feb 18 sup 2.4 → Feb 28 ext 4.7,2.3000000000000003
+coastalliving,4,2026-02-04,2026-04-19,4.85,2.2,4.8,-0.10000000000000053,2,none,"['CyberNova', 'VaultEdge']",True,Feb 04 ext 4.9 → Feb 24 sup 2.2 → Mar 29 sup 2.2 → Apr 19 ext 4.8,2.6499999999999995
+redwoodclinical,2,2026-02-22,2026-04-26,4.0,,4.8,1.5999999999999996,2,none,['VaultEdge'],False,Feb 22 ext 3.2 → Apr 26 ext 4.8,
+pinnacleins,2,2026-04-08,2026-04-16,3.6,3.4,3.6,0.20000000000000018,1,low,[],True,Apr 08 sup 3.4 → Apr 16 ext 3.6,0.20000000000000018
+frostbyte,2,2026-02-19,2026-04-25,4.25,,3.7,-1.0999999999999996,1,low,[],False,Feb 19 ext 4.8 → Apr 25 ext 3.7,
+harborviewbank,1,2026-03-05,2026-03-05,3.9,,3.9,0.0,1,low,[],False,Mar 05 ext 3.9,
+bridgeporthealth,2,2026-02-13,2026-04-23,4.1,,4.1,0.0,1,low,['VaultEdge'],True,Feb 13 ext 4.1 → Apr 23 ext 4.1,
+forgeindustries,3,2026-03-18,2026-04-09,4.1,4.1,4.1,0.6999999999999997,1,low,[],True,Mar 18 sup 3.4 → Apr 03 sup 4.8 → Apr 09 ext 4.1,0.0
+axiomlabs,1,2026-04-17,2026-04-17,4.2,,4.2,0.0,1,low,"['SentinelShield', 'VaultEdge']",True,Apr 17 ext 4.2,
+atlasprecision,2,2026-02-25,2026-04-28,4.0,,4.3,0.5999999999999996,1,none,['SentinelShield'],True,Feb 25 ext 3.7 → Apr 28 ext 4.3,
+nimbusplatform,2,2026-02-10,2026-04-01,4.8,3.5,4.8,1.2999999999999998,1,none,[],False,Feb 10 sup 3.5 → Apr 01 ext 4.8,1.2999999999999998
+pineridge,2,2026-03-03,2026-03-04,4.7,3.9,3.9,-0.8000000000000003,0,none,['SentinelShield'],False,Mar 03 ext 4.7 → Mar 04 sup 3.9,0.8000000000000003
+keystonehealth,1,2026-03-09,2026-03-09,4.4,,4.4,0.0,0,none,[],False,Mar 09 ext 4.4,
+maplewoodgoods,1,2026-02-27,2026-02-27,4.8,,4.8,0.0,0,none,[],False,Feb 27 ext 4.8,

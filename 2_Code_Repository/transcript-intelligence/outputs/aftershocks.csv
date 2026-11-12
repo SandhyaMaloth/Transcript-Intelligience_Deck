@@ -1,0 +1,6 @@
+start,title,primary,sentiment_score,churn_risk,rationale
+2026-04-10 17:30:00+00:00,Support Case #8179 - Clearwater Medical Overage Charges Dispute,BILLING,2.4,medium,Comply overage from migration misconfig plus Detect outage replay traffic.
+2026-04-12 09:00:00+00:00,Support Case #9856 - Silverline Brands Backup Window Exceeded,DEFECT,2.4,medium,Backup throughput drop likely from Detect remediation network changes.
+2026-04-15 12:30:00+00:00,Support Case #6147 - Summit Trust Detect Alert Delays,DEFECT,2.4,medium,Alert delays from overloaded post-remediation cluster; never told about outage.
+2026-04-22 12:30:00+00:00,Support Case #3536 - Stratos Cloud LogVault Integration Timeout,DEFECT,2.4,high,Circuit breaker from outage fix throttles LogVault push; questioning Detect.
+2026-04-27 10:15:00+00:00,Support Case #7615 - Crestline Wealth Group Policy Sync Delay,DEFECT,2.4,medium,Identity sync queue backup on shared cluster post-remediation; 5-day wait.

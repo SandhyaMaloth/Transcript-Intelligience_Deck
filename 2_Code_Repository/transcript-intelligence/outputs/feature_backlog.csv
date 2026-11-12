@@ -1,0 +1,13 @@
+start,account,call_type,modules,churn_risk,rationale
+2026-02-10 15:30:00+00:00,nimbusplatform,support,['Comply'],low,Cross-framework control mapping report not supported; feature request escalated.
+2026-02-13 11:00:00+00:00,bridgeporthealth,external,['Comply'],low,HIPAA audit prep and multi-framework gaps in Comply.
+2026-02-22 13:15:00+00:00,redwoodclinical,external,"['Protect', 'Comply', 'Identity']",medium,Four prioritised Comply reporting gaps; hints at VaultEdge evaluation.
+2026-03-05 15:30:00+00:00,harborviewbank,external,['Detect'],low,Post-go-live Detect tuning for alert fatigue.
+2026-03-07 09:00:00+00:00,ridgelinelogistics,external,['Identity'],medium,Identity session/MFA gaps; unanswered January ticket.
+2026-03-07 13:30:00+00:00,meridiancapital,support,"['Comply', 'Identity']",low,Native SCIM not GA; REST API workaround.
+2026-03-24 17:45:00+00:00,steelpointmfg,external,"['Detect', 'Protect', 'Comply']",medium,Contract review; exploratory CyberNova talks and CMMC gap.
+2026-03-26 14:00:00+00:00,meridiancapital,support,['Protect'],low,File-level restore missing in Protect.
+2026-04-03 15:30:00+00:00,forgeindustries,support,['Comply'],none,Question about Comply v2 early access and frameworks.
+2026-04-16 13:00:00+00:00,pinnacleins,external,"['Detect', 'Comply']",low,Detect roadmap asks incl. pipeline health visibility.
+2026-04-25 14:45:00+00:00,frostbyte,external,"['Comply', 'Identity']",low,Identity role hierarchy and session policy gaps.
+2026-04-25 17:15:00+00:00,blackridgeinvest,support,['Comply'],none,Custom compliance template request; design partner enrolment.

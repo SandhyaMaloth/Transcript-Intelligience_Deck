@@ -1,0 +1,12 @@
+# Core (needed to run run_pipeline.py, the notebook and the tests).
+# Tested with the versions in brackets, and also with pandas 2.3, scikit-learn 1.6, matplotlib 3.10.
+pandas>=2.0        # [3.0.5]
+numpy>=1.24        # [2.5.3]
+scikit-learn>=1.3  # [1.9.1]
+scipy>=1.10        # [1.18.1]
+matplotlib>=3.7    # [3.11.2]
+
+# Optional (not installed by default)
+# jupyter          # open/run notebooks/transcript_intelligence.ipynb interactively
+# anthropic        # API labelling only: run_pipeline.py --use-api, refresh_labels.py  [0.82.0]
+# ruff             # lint: ruff check .

@@ -1,0 +1,46 @@
+competitor,meeting_id,start,call_type,mentions,said_by_customer,modules,post_outage
+SentinelShield,01KQ0F8AFF3DA34FD4580008,2026-04-11 14:15:00+00:00,external,2,2,[],True
+SentinelShield,01KQ1DCC80852AE384C898C9,2026-03-19 16:00:00+00:00,external,3,2,[],True
+SentinelShield,01KQ2217B066855A3B7814CB,2026-03-14 11:45:00+00:00,external,1,1,[],True
+SentinelShield,01KQ2331EFD78BF3B1CAB747,2026-03-12 13:45:00+00:00,internal,1,0,[],True
+SentinelShield,01KQ298F2846EFE59B0D70E2,2026-03-20 15:30:00+00:00,internal,6,0,"['Detect', 'Protect']",True
+SentinelShield,01KQ2D93184912F0147315E7,2026-03-12 15:45:00+00:00,support,1,1,[],True
+SentinelShield,01KQ31ED026F745FE2A55CCD,2026-04-13 11:45:00+00:00,internal,3,0,"['Comply', 'Identity']",True
+SentinelShield,01KQ351E141926AB7CAB668D,2026-03-12 12:15:00+00:00,external,1,1,[],True
+SentinelShield,01KQ410FB7E434BA3F99EE7D,2026-04-17 09:45:00+00:00,external,2,2,"['Detect', 'Protect', 'Comply', 'Identity']",True
+SentinelShield,01KQ4529010F423FD9DB40BD,2026-04-24 12:45:00+00:00,internal,2,0,[],True
+SentinelShield,01KQ45F6F7349D0A620571F1,2026-04-22 15:30:00+00:00,external,5,3,['Detect'],True
+SentinelShield,01KQ46A9DE0AECB006D897A0,2026-03-11 11:00:00+00:00,internal,1,0,[],True
+SentinelShield,01KQ4D504CE09A8F6ECA1F5A,2026-02-09 17:30:00+00:00,internal,1,0,['Identity'],False
+SentinelShield,01KQ7BF0D56037FF89DC89B6,2026-03-11 17:45:00+00:00,support,1,1,[],True
+SentinelShield,01KQ7F58A2E07B857C24624D,2026-02-19 09:15:00+00:00,internal,8,0,"['Detect', 'Protect', 'Comply', 'Identity']",False
+SentinelShield,01KQ7FA71CF70FAFEE4B6251,2026-03-21 11:15:00+00:00,external,3,1,['Detect'],True
+SentinelShield,01KQ88B8EAEAA819C26CCBE7,2026-03-15 14:30:00+00:00,support,1,1,"['Detect', 'Protect', 'Identity']",True
+SentinelShield,01KQA0F0BE68E74D66EB4171,2026-04-10 11:30:00+00:00,internal,5,0,"['Comply', 'Identity']",True
+SentinelShield,01KQA502E222E2A60330237B,2026-03-03 15:15:00+00:00,external,1,1,[],False
+SentinelShield,01KQC1267BEB344076DD7656,2026-03-28 12:30:00+00:00,external,1,0,[],True
+SentinelShield,01KQD199788883B6F18C81E8,2026-04-28 12:45:00+00:00,external,1,1,[],True
+SentinelShield,01KQEDB92E33CF9945A7F71B,2026-03-10 13:15:00+00:00,support,1,1,[],True
+VaultEdge,01KQ298F2846EFE59B0D70E2,2026-03-20 15:30:00+00:00,internal,2,0,"['Detect', 'Protect']",True
+VaultEdge,01KQ410FB7E434BA3F99EE7D,2026-04-17 09:45:00+00:00,external,2,2,"['Detect', 'Protect', 'Comply', 'Identity']",True
+VaultEdge,01KQ4529010F423FD9DB40BD,2026-04-24 12:45:00+00:00,internal,8,0,"['Detect', 'Protect']",True
+VaultEdge,01KQ51DC4345D9DAE005678C,2026-02-22 13:15:00+00:00,external,1,1,['Comply'],False
+VaultEdge,01KQ5A966832A146DA4B7D41,2026-03-26 16:00:00+00:00,external,4,1,['Identity'],True
+VaultEdge,01KQ7B802912366FC0A24D4F,2026-04-26 11:45:00+00:00,internal,2,0,[],True
+VaultEdge,01KQ7F58A2E07B857C24624D,2026-02-19 09:15:00+00:00,internal,4,0,"['Detect', 'Protect', 'Comply', 'Identity']",False
+VaultEdge,01KQ85D10E82A26A8F754FB8,2026-02-13 11:00:00+00:00,external,1,1,['Comply'],False
+VaultEdge,01KQ8C5A044F54EE1774D53C,2026-03-17 11:45:00+00:00,external,2,1,[],True
+VaultEdge,01KQ9BB82FD97C9607D57E90,2026-02-04 11:00:00+00:00,external,1,1,['Protect'],False
+VaultEdge,01KQA0F0BE68E74D66EB4171,2026-04-10 11:30:00+00:00,internal,1,0,"['Comply', 'Identity']",True
+VaultEdge,01KQADF3D76E82BF8BA19AF2,2026-02-28 11:00:00+00:00,internal,1,0,[],False
+CyberNova,01KQ298F2846EFE59B0D70E2,2026-03-20 15:30:00+00:00,internal,3,0,[],True
+CyberNova,01KQ4529010F423FD9DB40BD,2026-04-24 12:45:00+00:00,internal,1,0,[],True
+CyberNova,01KQ45C76AF3AEA6B3EA6697,2026-03-24 17:45:00+00:00,external,1,1,[],True
+CyberNova,01KQ4D504CE09A8F6ECA1F5A,2026-02-09 17:30:00+00:00,internal,2,0,['Identity'],False
+CyberNova,01KQ7F58A2E07B857C24624D,2026-02-19 09:15:00+00:00,internal,3,0,"['Detect', 'Protect', 'Comply', 'Identity']",False
+CyberNova,01KQ88B8EAEAA819C26CCBE7,2026-03-15 14:30:00+00:00,support,1,1,"['Detect', 'Protect', 'Identity']",True
+CyberNova,01KQ9BB82FD97C9607D57E90,2026-02-04 11:00:00+00:00,external,2,1,['Protect'],False
+CyberNova,01KQA0F0BE68E74D66EB4171,2026-04-10 11:30:00+00:00,internal,3,0,[],True
+Fortiguard Pro,01KQ31ED026F745FE2A55CCD,2026-04-13 11:45:00+00:00,internal,1,0,[],True
+Fortiguard Pro,01KQ6CAA850EAFDC48B52846,2026-04-14 13:45:00+00:00,external,2,1,['Detect'],True
+Fortiguard Pro,01KQ7F58A2E07B857C24624D,2026-02-19 09:15:00+00:00,internal,2,0,[],False
